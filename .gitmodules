@@ -1,3 +1,6 @@
 [submodule "Laboratorio 1"]
 	path = Laboratorio 1
 	url = https://github.com/Laboratorios-Containerlabs/lab1.git
+[submodule "Laboratorio 2"]
+	path = Laboratorio 2
+	url = https://github.com/Laboratorios-Containerlabs/lab2.git
